@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subbareddy - Need Your Help</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+        }
+        .bio {
+            margin-bottom: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Subbareddy</h1>
+        <p>Need Your Help</p>
+    </header>
+    <div class="container">
+        <section class="bio section">
+            <h2>About Me</h2>
+            <p>I have 16 years of experience in the IT industry. Currently, I am focused on building cutting-edge Generative AI applications using various hyper scalers. This includes leveraging OpenAI from Azure Cloud, DLP from Google Cloud, and Hugging Face's instructor-large embeddings, etc.</p>
+        </section>
+        <section class="portfolio section">
+            <h2>Technologies and Projects</h2>
+            <p>Explore the various new technologies I work with and some of my recent projects:</p>
+            <ul>
+                <li>Generative AI with OpenAI on Azure Cloud</li>
+                <li>Data Loss Prevention (DLP) with Google Cloud</li>
+                <li>Advanced embeddings with Hugging Face</li>
+                <li>And more...</li>
+            </ul>
+        </section>
+        <section class="contact section">
+            <h2>Contact</h2>
+            <p>You can reach me at <a href="mailto:your.email@example.com">your.email@example.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourlinkedinprofile" target="_blank">LinkedIn</a>.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Subbareddy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
